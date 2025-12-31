@@ -66,7 +66,7 @@ The project combines hardware integration and embedded programming.
 
 ### 🕹️ Speed-Date Game Platform (In Progress)  
 **React, FastAPI**  
-🔗 https://github.com/USERNAME/speed-date-platform  
+🔗 https://github.com/kobe-vb/echoMe
 
 A Kahoot-inspired multiplayer web platform featuring lobbies, matchmaking, timed conversation rounds, prediction questions, and a live scoreboard.  
 Built to practice **full-stack development**, API design, real-time updates, and multiplayer logic.
