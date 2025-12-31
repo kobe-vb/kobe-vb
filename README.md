@@ -46,7 +46,7 @@ A collection of **40+ local multiplayer mini-games** (up to 5 players), built to
 
 ### 💧 Water Sommelier Interface  
 **C++, Raylib**  
-🔗 https://github.com/USERNAME/water-sommelier  
+🔗 https://github.com/kobe-vb/watersommelier
 
 An interactive desktop application simulating a “water sommelier” experience.  
 Users can mix and customize mineral-water profiles through a clean UI, with **barcode scanner input** for group interaction.  
