@@ -36,13 +36,13 @@ C • C++ • Python • JavaScript • TypeScript • React • FastAPI • Doc
 
 ## 🚀 Selected Projects
 
-### 🎮 Mini-Games Platform  
+<!-- ### 🎮 Mini-Games Platform  
 **Python, Pygame**  
 🔗 https://github.com/USERNAME/mini-games-platform  
 
 A collection of **40+ local multiplayer mini-games** (up to 5 players), built to explore reusable programming patterns in a fun way.
 
----
+--- -->
 
 ### 💧 Water Sommelier Interface  
 **C++, Raylib**  
@@ -52,15 +52,15 @@ An interactive desktop application simulating a “water sommelier” experience
 Users can mix and customize mineral-water profiles through a clean UI, with **barcode scanner input** for group interaction.  
 Focus on **UI logic, real-time interaction, and C++ architecture**.
 
----
+<!-- --- -->
 
-### ⚡ ESP32 Reaction Game  
+<!-- ### ⚡ ESP32 Reaction Game  
 **C++, Python, ESP32**  
 🔗 https://github.com/USERNAME/esp32-reaction-game  
 
 A reaction-speed game where players must tap X times as fast as possible using a physical sensor.
 Game data is streamed to a PC for real-time processing and visualization, allowing comparison with previous rounds.
-The project combines hardware integration and embedded programming.
+The project combines hardware integration and embedded programming. -->
 
 ---
 
