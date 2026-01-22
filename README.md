@@ -1,76 +1,64 @@
 <div align="center">
-  <h2>Hi, I'm Kobe! 👋<br/> <br/> 42 Belgium Student | Leuven</h2>
+  <h1>Hi, I'm Kobe 👋</h1>
+  <h3>42 Belgium Student | Leuven</h3>
 </div>
-
-
-## 👋 About Me
-I’m a curious and hands-on IT student at **42 Belgium**, passionate about learning how things work—from low-level systems and hardware to interactive applications and web platforms.
-
-I enjoy building projects that combine **problem-solving, user interaction, and technical depth**.  
-While I’m still exploring which IT direction fits me best, my projects show a strong interest in:
-- interactive applications
-- game-like systems
-- full-stack experimentation
-- performance and real-time interaction
-
-Currently looking for a **job or internship** where I can keep learning, contribute to real projects, and grow as a developer.
 
 ---
 
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/kobe-vanden-begin-922b73259" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://instagram.com/kobevandenbegin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-</p>
+## 👋 About Me
+
+Hands‑on **IT student at 42 Belgium** with a strong interest in **systems programming, interactive applications, and full‑stack development**.
+
+I enjoy building projects that focus on **performance, real‑time interaction, and user experience** — from low‑level C/C++ programs to multiplayer web platforms.
+
+Currently looking for a **job or internship** to keep learning and contribute to real projects.
 
 ---
 
 ## 🧰 Languages & Tools
-C • C++ • Python • JavaScript • TypeScript • React • FastAPI • Docker • Git • Linux • Arduino
+
+C • C++ • Python • JavaScript • TypeScript
+React • FastAPI • Docker • Git • Linux • Raylib • Pygame • Arduino
 
 ---
 
 ## 🚀 Selected Projects
 
-<!-- ### 🎮 Mini-Games Platform  
-**Python, Pygame**  
-🔗 https://github.com/USERNAME/mini-games-platform  
+### 💧 Water Sommelier Interface
 
-A collection of **40+ local multiplayer mini-games** (up to 5 players), built to explore reusable programming patterns in a fun way.
-
---- -->
-
-### 💧 Water Sommelier Interface  
-**C++, Raylib**  
-🔗 https://github.com/kobe-vb/watersommelier
-
-An interactive desktop application simulating a “water sommelier” experience.  
-Users can mix and customize mineral-water profiles through a clean UI, with **barcode scanner input** for group interaction.  
-Focus on **UI logic, real-time interaction, and C++ architecture**.
-
-<!-- --- -->
-
-<!-- ### ⚡ ESP32 Reaction Game  
-**C++, Python, ESP32**  
-🔗 https://github.com/USERNAME/esp32-reaction-game  
-
-A reaction-speed game where players must tap X times as fast as possible using a physical sensor.
-Game data is streamed to a PC for real-time processing and visualization, allowing comparison with previous rounds.
-The project combines hardware integration and embedded programming. -->
+**C++, Raylib**
+Interactive desktop app with real‑time UI and barcode‑scanner input for group interaction.
+🔗 [https://github.com/kobe-vb/watersommelier](https://github.com/kobe-vb/watersommelier)
 
 ---
 
-### 🕹️ Speed-Date Game Platform (In Progress)  
-**React, FastAPI**  
-🔗 https://github.com/kobe-vb/echoMe
+### 🎮 Mini‑Games Platform
 
-A Kahoot-inspired multiplayer web platform featuring lobbies, matchmaking, timed conversation rounds, prediction questions, and a live scoreboard.  
-Built to practice **full-stack development**, API design, real-time updates, and multiplayer logic.
+**Python, Pygame**
+40+ local multiplayer mini‑games (up to 5 players) built to explore reusable game logic and fast prototyping.
 
 ---
 
-⭐ Feel free to explore my repositories or reach out if you'd like to collaborate.
+### 🕹️ EchoMe *(In Progress)*
+
+**React, FastAPI**
+Kahoot‑style multiplayer web app with lobbies, timed rounds, and live scoreboards.
+🔗 [https://github.com/kobe-vb/echoMe](https://github.com/kobe-vb/echoMe)
+
+---
+
+## 🎓 42 Belgium Projects
+
+* **MiniShell** – Bash‑like shell (pipes, redirects, env)
+* **Cub3D** – Raycasting 3D engine
+* **Webserv** – HTTP server (NGINX‑like)
+* **ft_transcendence** – Full‑stack multiplayer web app
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)](https://linkedin.com/in/kobe-vanden-begin-922b73259)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram\&logoColor=white)](https://instagram.com/kobevandenbegin/)
+
+⭐ Feel free to explore my repositories or reach out.
